@@ -1,3 +1,3 @@
 # SmartSeller themekit cli
 
-Ferramenta para desenvovimento de temas na plataforma [SmartSeller commerce](https://smartseller.com.br).
+Ferramenta para desenvovimento de temas na plataforma [SmartSeller](https://smartseller.com.br).
